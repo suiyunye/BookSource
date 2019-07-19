@@ -17,7 +17,7 @@ func main() {
 	lists := gjson.Get(string(bookMerge), "list")
 	time := time.Now().Format("2006-01-02 15:04:05")
 	nums := 0
-	file := "|书源|API|类型|排行榜|账号|版本|暗码|作者|\n| :----------: | ----------------------------------------- | :---: | :----: | :---: | :---: | :---: |:---: |"
+	file := "|书源|API|类型|排行榜|账号|版本|作者|暗码|\n| :----------: | ----------------------------------------- | :---: | :----: | :---: | :---: | :---: |:---: |"
 	println(file)
 	for _, lis := range lists.Array() {
 		author := gjson.Get(lis.String(), "author").String()
