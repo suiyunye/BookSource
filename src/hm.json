@@ -1,0 +1,28 @@
+{
+    "list": [{
+        "code": "2333",
+        "url": "https://gitee.com/chuner821/houmo/raw/master/chuner.json",
+        "author": "纯二",
+        "about": ""
+    }, {
+        "code": "9713",
+        "url": "https://gitee.com/tyj9713/BookSourceRepository/raw/master/repository.json",
+        "author": "旧人",
+        "about": ""
+    }, {
+        "code": "9251",
+        "url": "https://gitee.com/halloboy/BookSourceRepository/raw/master/repository.json",
+        "author": "Guimi",
+        "about": ""
+    }, {
+        "code": "1212",
+        "url": "https://raw.githubusercontent.com/zsakvo/hm-source/master/repository.json",
+        "author": "zsakvo",
+        "about": ""
+    }, {
+        "code": "2000",
+        "url": "https://gitee.com/chimisgo/breezy/raw/master/repository.json",
+        "author": "楚观",
+        "about": ""
+    }]
+}
