@@ -1,8 +1,8 @@
 ### 厚墨公共书源集中索引
 #### 更新时间
-2019-07-19 19:25:48
+2019-07-27 18:03:43
 #### 已收录
-104
+109
 
 |书源|API|类型|排行榜|账号|版本|作者|暗码|
 | :----------: | ----------------------------------------- | :---: | :----: | :---: | :---: | :---: |:---: |
@@ -69,13 +69,13 @@
 |就爱谈小说|https://www.9itan.com|1|0|false|100|旧人|9713|
 |My716|http://api.zhuishushenqi.com|3|4|false|103|旧人|9713|
 |书客吧|https://www.shukeba.com|1|0|false|100|旧人|9713|
-|二三小说|http://kig.two3.cn|1|0|false|100|旧人|9713|
+|二三小说|http://kig.two3.cn|1|0|false|101|旧人|9713|
 |完本神站|https://www.wanbentxt.com|1|8|false|100|旧人|9713|
 |墨色阅读|http://api10e46r.zhuishushenqi.com|0|4|false|102|旧人|9713|
 |九九藏书|http://www.99lib.net.qq.com.andyt.cn:8888|0|0|false|101|旧人|9713|
-|期刊杂志|提供最新期刊且用且珍惜|0|18|false|101|旧人|9713|
+|期刊杂志|提供最新期刊且用且珍惜|0|18|false|102|旧人|9713|
 |作文大全|精选作文期刊|0|9|false|101|旧人|9713|
-|一百本书|https://www.100ben.net|0|13|false|102|旧人|9713|
+|一百本书|https://www.100ben.net|0|13|false|104|旧人|9713|
 |中医古籍|http://39.108.236.110|0|16|false|101|旧人|9713|
 |垃圾分类指南|今天你的垃圾分类了吗|0|0|false|101|旧人|9713|
 |落霞小说|https://www.luoxia.com|0|6|false|109|Guimi|9251|
@@ -83,30 +83,35 @@
 |麦田小说|http://www.mtxs.me|1|8|false|103|Guimi|9251|
 |小说柜|https://xiaoshuogui.com|3|8|false|102|Guimi|9251|
 |武侠世界|https://www.wuxiaworld.com|1|1|false|100|Guimi|9251|
-|九桃小说|https://www.9txs.com|1|0|false|100|zsakvo|1212|
-|有兔阅读|https://app.youzibank.com|1|6|false|100|zsakvo|1212|
-|轻文轻小说|https://www.iqing.com|2|5|false|100|zsakvo|1212|
-|看书君|https://www.kanshujun.com|1|6|false|100|zsakvo|1212|
-|猎文网|https://www.liewen.cc|1|0|false|100|zsakvo|1212|
-|小笔趣阁|https://www.xiaobiquge.com|1|0|false|100|zsakvo|1212|
-|88读书网|https://m.88dush.com|1|0|false|100|zsakvo|1212|
-|梧州中文台|http://www.wzzw.la|1|0|false|100|zsakvo|1212|
-|雅文小说|https://www.yawen365.com|1|0|false|100|zsakvo|1212|
-|幼狮书盟|https://m.yssm.tv|1|0|false|100|zsakvo|1212|
-|爱奇文学|https://www.i7wx.com|1|0|false|100|zsakvo|1212|
-|一本读|http://www.ybdu.me|1|0|false|100|zsakvo|1212|
-|文学迷|https://www.wenxuemi6.com|1|0|false|100|zsakvo|1212|
-|玫瑰小说网|https://www.meiguixs.com|1|0|false|100|zsakvo|1212|
-|笔趣阁|https://www.biqubao.com|1|0|false|103|zsakvo|1212|
-|稻草人书屋|https://www.daocaorenshuwu.com|3|0|false|103|zsakvo|1212|
-|书农小说|http://www.qxswk.com|0|4|false|100|zsakvo|1212|
-|作品集|http://zuopinj.com|0|4|false|101|zsakvo|1212|
-|读书369|http://www.dushu369.com|0|0|false|101|zsakvo|1212|
-|55小说网|http://www.liushuba.com|1|0|false|100|zsakvo|1212|
-|我的小书屋|https://m.sanyuedev.top|1|3|false|101|zsakvo|1212|
-|斋书苑|https://www.zhaishuyuan.com|1|0|false|103|zsakvo|1212|
-|亲小说|https://www.qinxiaoshuo.com|2|2|false|103|zsakvo|1212|
-|轻之文库|https://www.linovel.net|2|24|false|101|zsakvo|1212|
+|神凑轻小说|http://www.shencou.com|2|3|false|100|Guimi|9251|
+|全本言情小说|http://www.qbyq.net|1|9|false|100|Guimi|9251|
+|下书网|https://www.shutxt.com|3|14|false|100|Guimi|9251|
+|叮当小说|https://www.guxs.net|1|2|false|100|Guimi|9251|
+|轮回小说|https://www.9xs.org|1|3|false|100|Guimi|9251|
+|九桃小说|https://www.9txs.com|1|0|false|100|沚水|1212|
+|有兔阅读|https://app.youzibank.com|1|6|false|100|沚水|1212|
+|轻文轻小说|https://www.iqing.com|2|5|false|100|沚水|1212|
+|看书君|https://www.kanshujun.com|1|8|false|101|沚水|1212|
+|猎文网|https://www.liewen.cc|1|0|false|100|沚水|1212|
+|小笔趣阁|https://www.xiaobiquge.com|1|0|false|100|沚水|1212|
+|88读书网|https://m.88dush.com|1|0|false|100|沚水|1212|
+|梧州中文台|http://www.wzzw.la|1|0|false|100|沚水|1212|
+|雅文小说|https://www.yawen365.com|1|0|false|100|沚水|1212|
+|幼狮书盟|https://m.yssm.tv|1|0|false|100|沚水|1212|
+|爱奇文学|https://www.i7wx.com|1|0|false|100|沚水|1212|
+|一本读|http://www.ybdu.me|1|0|false|100|沚水|1212|
+|文学迷|https://www.wenxuemi6.com|1|0|false|100|沚水|1212|
+|玫瑰小说网|https://www.meiguixs.com|1|0|false|100|沚水|1212|
+|笔趣阁|https://www.biqubao.com|1|0|false|103|沚水|1212|
+|稻草人书屋|https://www.daocaorenshuwu.com|3|0|false|104|沚水|1212|
+|书农小说|http://www.qxswk.com|0|4|false|100|沚水|1212|
+|作品集|http://zuopinj.com|0|4|false|101|沚水|1212|
+|读书369|http://www.dushu369.com|0|0|false|101|沚水|1212|
+|55小说网|http://www.liushuba.com|1|0|false|100|沚水|1212|
+|我的小书屋|https://m.sanyuedev.top|1|3|false|102|沚水|1212|
+|斋书苑|https://www.zhaishuyuan.com|1|0|false|103|沚水|1212|
+|亲小说|https://www.qinxiaoshuo.com|2|2|false|103|沚水|1212|
+|轻之文库|https://www.linovel.net|2|24|false|101|沚水|1212|
 |起点中文网|https://m.qidian.com|1|9|true|101|楚观|2000|
 |磨铁中文网|http://m.motie.com|1|12|true|100|楚观|2000|
 |纵横中文网|http://www.zongheng.com|1|9|true|102|楚观|2000|
