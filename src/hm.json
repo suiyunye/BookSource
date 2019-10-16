@@ -11,7 +11,7 @@
         "about": ""
     }, {
         "code": "9251",
-        "url": "https://gitee.com/halloboy/BookSourceRepository/raw/master/repository.json",
+        "url": "https://raw.githubusercontent.com/anguoi/BookSourceRepository/master/repository.json",
         "author": "Guimi",
         "about": ""
     }, {
@@ -21,12 +21,12 @@
         "about": ""
     }, {
         "code": "2000",
-        "url": "https://gitee.com/chimisgo/breezy/raw/master/repository.json",
+        "url": "https://raw.githubusercontent.com/chimisgo/Breezy/master/repository.json",
         "author": "楚观",
         "about": ""
     }, {
         "code": "6666",
-        "url": "https://gitee.com/zhangxiaowan/xiaowanshuku/raw/master/repository.json",
+        "url": "https://raw.githubusercontent.com/qszy/houmo/master/repository.json",
         "author": "张小晚",
         "about": ""
     }]
