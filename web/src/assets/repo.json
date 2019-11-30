@@ -1,0 +1,41 @@
+{
+  "time": "2019/11/30 17:58:23",
+  "repos": [
+    {
+      "url": "https://gitee.com/tyj9713/BookSourceRepository/raw/master/repository.json",
+      "repoName": "旧人",
+      "summary": "Provided links and based on gitee.com",
+      "size": 21
+    },
+    {
+      "url": "https://raw.githubusercontent.com/YuSheng821/2333/master/chuner.json",
+      "repoName": "By 纯二",
+      "summary": "This is just a book source repository.\n更新说明：\n1. 修复【无弹窗小说网】无法读取章节列表\n2. 修复【新笔趣阁】正文加载出错\n3. 新增【望海阅读】",
+      "size": 49
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chimisgo/Breezy/master/repository.json",
+      "repoName": "Breezy",
+      "summary": "正版阅读。使用方法：\n1. 登录书源对应的网站账号\n2. 选择图书并开启自动订阅\n3. 保持登录账号的余额充足",
+      "size": 3
+    },
+    {
+      "url": "https://raw.githubusercontent.com/qszy/houmo/master/repository.json",
+      "repoName": "张小晚",
+      "summary": "谈对象影响学习。学习最重要。—— 培根",
+      "size": 27
+    },
+    {
+      "url": "https://raw.githubusercontent.com/chimisgo/Beaver/master/repository.json",
+      "repoName": "zsakvo",
+      "summary": "Provided links by zsakvo",
+      "size": 24
+    },
+    {
+      "url": "https://raw.githubusercontent.com/anguoi/BookSourceRepository/master/repository.json",
+      "repoName": "Guimi",
+      "summary": "Provided links and based on github.com/gitee.com",
+      "size": 17
+    }
+  ]
+}
