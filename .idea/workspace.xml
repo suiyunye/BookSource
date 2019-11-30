@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3d78f6d-bc85-49ed-a76f-108c0466014d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/app.d39de6d6.js" beforeDir="false" />
-    </list>
+    <list default="true" id="b3d78f6d-bc85-49ed-a76f-108c0466014d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +58,11 @@
             <path>
               <item name="BookSource" type="b2602c69:ProjectViewProjectNode" />
               <item name="BookSource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BookSource" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BookSource" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -146,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575115679230</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update background color">
+      <created>1575117068910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575117068910</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -174,7 +182,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="add web source" />
     <MESSAGE value="add web index html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add web index html" />
+    <MESSAGE value="update background color" />
+    <option name="LAST_COMMIT_MESSAGE" value="update background color" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/dist/index.html" />
@@ -193,6 +202,12 @@
     <entry file="file://$PROJECT_DIR$/web/package.json" />
     <entry file="file://$PROJECT_DIR$/web/.gitignore" />
     <entry file="file://$PROJECT_DIR$/web/bin/run.js" />
+    <entry file="file://$PROJECT_DIR$/css/app.7369a6f2.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/chunk-vendors.c15959df.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -201,12 +216,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/app.7369a6f2.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/chunk-vendors.c15959df.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
