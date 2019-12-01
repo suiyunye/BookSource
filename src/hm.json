@@ -29,5 +29,10 @@
         "url": "https://raw.githubusercontent.com/qszy/houmo/master/repository.json",
         "author": "张小晚",
         "about": ""
+    }, {
+        "code": "2357",
+        "url": "https://raw.githubusercontent.com/Wenmoux/BookSourceRepository/master/repository.json",
+        "author": "温某某",
+        "about": ""
     }]
 }
